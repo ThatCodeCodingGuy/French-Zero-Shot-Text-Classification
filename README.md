@@ -52,9 +52,17 @@ You can check and try it out [here](https://huggingface.co/spaces/azizbarank/Fre
 
 Avec la Ligue 1 qui reprend ses droits à partir de vendredi 5 août, et un premier match pour ce qui les concerne samedi soir, à Clermont-Ferrand, l’heure est désormais arrivée pour les Parisiens d’apporter les preuves que ce changement d’ère est bien une réalité.
 
-### Label List: monde,économie,sciences,culture,santé,politique,sport,technologie
+#### (English Translation):
 
+With the Ligue 1 starting again on Friday, August 5, and a first match for them on Saturday night in Clermont-Ferrand, the time has come for the Parisians to prove that this change of era is a reality.
 
+### Label List: 
+
+monde,économie,sciences,culture,santé,politique,sport,technologie
+
+#### (English Translation):
+
+world,economy,science,culture,health,politics,sport,technology
 
 ### Output:
 ![Output](https://github.com/ThatCodeCodingGuy/French-Zero-Shot-Text-Classification/blob/main/result.jpg)
